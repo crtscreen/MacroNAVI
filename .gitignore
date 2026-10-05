@@ -1,0 +1,15 @@
+# kicad temp files
+*.kicad_prl
+*.lck
+~*
+*-backups/
+_autosave-*
+
+# freecad backups
+*.FCStd1
+*.FCStd2
+*.FCBak
+
+# python cache
+__pycache__/
+*.pyc
