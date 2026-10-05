@@ -1,9 +1,9 @@
 # kicad temp files
 *.kicad_prl
 *.lck
-~*
 *-backups/
 _autosave-*
+pcb/.history/
 
 # freecad backups
 *.FCStd1
